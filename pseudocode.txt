@@ -1,0 +1,3 @@
+ask for the tall of the pyramide
+verify to be between 1 and 8 and to be an integer
+print # based on the user input
